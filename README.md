@@ -1,4 +1,7 @@
 # Probability-Theory-and-Examples-5th-edition
+
+Probability: Theory and Examples. 5th Edition[https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf]
+
 Solution and Useful Links
 
 
