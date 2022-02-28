@@ -2,6 +2,10 @@
 
 Probability: Theory and Examples. 5th Edition[https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf]
 
+
+Solution Manual
+https://www.cyrusmaz.com/files/Probability.pdf
+
 Solution and Useful Links
 
 
