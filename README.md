@@ -16,3 +16,7 @@ https://math.stackexchange.com/questions/3333301/question-about-branching-proces
 4.7.4
 https://math.stackexchange.com/questions/3156729/probability-problem-durrett-4-7-4-exchangeable-sequence-of-random-variables
 https://en.wikipedia.org/wiki/Exchangeable_random_variables
+
+
+5.1.1
+https://math.stackexchange.com/questions/4055760/set-notation-when-showing-that-x-n-is-a-markov-chain
