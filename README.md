@@ -4,6 +4,8 @@ Probability: Theory and Examples. 5th Edition[https://services.math.duke.edu/~rt
 
 
 Solution Manual
+
+http://home.ustc.edu.cn/~lumiao/Solutions_to_Selected_Problems_of_Durrett.pdf
 https://www.cyrusmaz.com/files/Probability.pdf
 
 Solution and Useful Links
