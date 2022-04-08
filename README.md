@@ -41,7 +41,9 @@ https://math.stackexchange.com/questions/827553/the-expected-number-of-visits-be
 https://math.stackexchange.com/questions/1517167/finite-state-space-markov-chain-show-alpha-mn-leq-alpha-n-alpha-m
 https://math.stackexchange.com/questions/3247719/show-alpha-mn-leq-alpha-m-alpha-n-for-a-markov-chain-on-a-finite-state-sp?noredirect=1&lq=1
 
-
+6.1.6.
+https://math.stackexchange.com/questions/481146/ergodicity-of-a-sequence-of-independent-blocks
+https://faculty.math.illinois.edu/~psdey/stat205BS08/sol6.pdf
 
 
 
