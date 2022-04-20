@@ -28,14 +28,11 @@
 - https://en.wikipedia.org/wiki/Exchangeable_random_variables
 
 
-[5.1.1]
-(https://math.stackexchange.com/questions/4055760/set-notation-when-showing-that-x-n-is-a-markov-chain)
+[5.1.1](https://math.stackexchange.com/questions/4055760/set-notation-when-showing-that-x-n-is-a-markov-chain)
 
-[5.4.2]
-(https://math.stackexchange.com/questions/4197894/ladder-variables-durrett-exercise-5-4-2)
+[5.4.2](https://math.stackexchange.com/questions/4197894/ladder-variables-durrett-exercise-5-4-2)
 
-[5.5.6]
-(https://math.stackexchange.com/questions/827553/the-expected-number-of-visits-before-hitting-zero-in-simple-random-walk)
+[5.5.6](https://math.stackexchange.com/questions/827553/the-expected-number-of-visits-before-hitting-zero-in-simple-random-walk)
 
 5.6.4
 - https://math.stackexchange.com/questions/1517167/finite-state-space-markov-chain-show-alpha-mn-leq-alpha-n-alpha-m
