@@ -6,9 +6,9 @@
 
 ## Solution Manual
 
-http://home.ustc.edu.cn/~lumiao/Solutions_to_Selected_Problems_of_Durrett.pdf\\
-https://www.cyrusmaz.com/files/Probability.pdf\\
-https://zhenyao-sun.github.io/Files/HW.html
+- http://home.ustc.edu.cn/~lumiao/Solutions_to_Selected_Problems_of_Durrett.pdf
+- https://www.cyrusmaz.com/files/Probability.pdf
+- https://zhenyao-sun.github.io/Files/HW.html
 
 ## Solutions and Useful Links
 
