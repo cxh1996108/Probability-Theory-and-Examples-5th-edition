@@ -11,8 +11,7 @@ https://zhenyao-sun.github.io/Files/HW.html
 
 Solution and Useful Links
 
-4.1.9
-https://math.stackexchange.com/questions/3350000/if-ey-vert-mathcalg-x-and-ex2-ey2-infty-then-x-y-a-s
+[4.1.9](https://math.stackexchange.com/questions/3350000/if-ey-vert-mathcalg-x-and-ex2-ey2-infty-then-x-y-a-s)
 
 
 
@@ -45,5 +44,6 @@ https://math.stackexchange.com/questions/3247719/show-alpha-mn-leq-alpha-m-alpha
 https://math.stackexchange.com/questions/481146/ergodicity-of-a-sequence-of-independent-blocks
 https://faculty.math.illinois.edu/~psdey/stat205BS08/sol6.pdf
 
+[7.4.1](https://math.stackexchange.com/questions/4431599/durrett-7-4-1-two-dimensional-brownian-motion-with-stopping-times)
 
 
