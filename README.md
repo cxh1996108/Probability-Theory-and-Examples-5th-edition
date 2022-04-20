@@ -1,15 +1,16 @@
 # Probability-Theory-and-Examples-5th-edition
 
-Probability: Theory and Examples. 5th Edition[https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf]
+## Textbook
+[Probability: Theory and Examples. 5th Edition](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
 
 
-Solution Manual
+## Solution Manual
 
 http://home.ustc.edu.cn/~lumiao/Solutions_to_Selected_Problems_of_Durrett.pdf
 https://www.cyrusmaz.com/files/Probability.pdf
 https://zhenyao-sun.github.io/Files/HW.html
 
-Solution and Useful Links
+## Solutions and Useful Links
 
 [4.1.9](https://math.stackexchange.com/questions/3350000/if-ey-vert-mathcalg-x-and-ex2-ey2-infty-then-x-y-a-s)
 
