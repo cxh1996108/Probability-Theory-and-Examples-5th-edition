@@ -9,6 +9,8 @@
 - http://home.ustc.edu.cn/~lumiao/Solutions_to_Selected_Problems_of_Durrett.pdf
 - https://www.cyrusmaz.com/files/Probability.pdf
 - https://zhenyao-sun.github.io/Files/HW.html
+- Wonjun Seo and Hoil Lee are working on a project where they make solutions to every exercise problem in Durrett’s Probability: Theory and Examples, 5th edition. [Here](https://hoillee.files.wordpress.com/2021/09/durrett-5e-solutions.pdf) is the latest (incomplete) version of it. (Last updated on Sep 9, 2021)
+
 
 ## Solutions and Useful Links
 
@@ -29,6 +31,8 @@
 
 
 [5.1.1](https://math.stackexchange.com/questions/4055760/set-notation-when-showing-that-x-n-is-a-markov-chain)
+[5.1.6](https://math.stackexchange.com/questions/86542/prove-binomnk-1-n1-int-01xk1-xn-kdx-for-0-leq-k-le)
+
 
 [5.4.2](https://math.stackexchange.com/questions/4197894/ladder-variables-durrett-exercise-5-4-2)
 
