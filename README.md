@@ -49,6 +49,10 @@
 - https://math.stackexchange.com/questions/481146/ergodicity-of-a-sequence-of-independent-blocks
 - https://faculty.math.illinois.edu/~psdey/stat205BS08/sol6.pdf
 
+7.2.3.
+- https://math.stackexchange.com/questions/363910/local-maximum-of-brownian-motion
+- https://math.stackexchange.com/questions/1282932/local-maximum-of-brownian-motions
+
 [7.4.1](https://math.stackexchange.com/questions/4431599/durrett-7-4-1-two-dimensional-brownian-motion-with-stopping-times)
 
 
