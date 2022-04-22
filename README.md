@@ -14,6 +14,8 @@
 
 ## Solutions and Useful Links
 
+[2.3.1](https://math.stackexchange.com/questions/1213536/liminf-and-limsup-in-probability)
+
 [4.1.9](https://math.stackexchange.com/questions/3350000/if-ey-vert-mathcalg-x-and-ex2-ey2-infty-then-x-y-a-s)
 
 
