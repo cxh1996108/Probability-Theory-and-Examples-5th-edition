@@ -56,3 +56,6 @@
 [7.4.1](https://math.stackexchange.com/questions/4431599/durrett-7-4-1-two-dimensional-brownian-motion-with-stopping-times)
 
 
+[7.6.1](https://math.stackexchange.com/questions/4380836/show-that-fb-t-is-a-martingale-iff-fx-abx)
+
+
