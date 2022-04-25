@@ -5,7 +5,7 @@
 
 
 ## Solution Manual
-
+- [Rick Durrett - Probability_ Theory and Examples Solutions Manual.pdf](https://github.com/cxh1996108/Probability-Theory-and-Examples-5th-edition/blob/main/Rick%20Durrett%20-%20Probability_%20Theory%20and%20Examples%20Solutions%20Manual.pdf)
 - http://home.ustc.edu.cn/~lumiao/Solutions_to_Selected_Problems_of_Durrett.pdf
 - https://www.cyrusmaz.com/files/Probability.pdf
 - https://zhenyao-sun.github.io/Files/HW.html
